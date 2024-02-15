@@ -12,7 +12,7 @@ npm install
 ```
 ## Git Installation
 
-cd react-chatapp
+cd React-Chattingapp
 
 node server.js
 ```
