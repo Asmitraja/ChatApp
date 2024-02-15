@@ -1,7 +1,7 @@
 # React-Chatapp
 Real Time Chatapp Using React, Node Js And Socket.io
 
-Don't Use Whatsapp, make your own
+Chat by your own app 😁
 
 ## Pre-requisites :
 Make Sure Nodejs is installed
