@@ -5,7 +5,7 @@ let messageArea = document.querySelector('.message__area');
 let sendButton = document.querySelector('#sendButton');
 
 do {
-    name = prompt('Please enter your name: ');
+    name = prompt('Enter Your Name for Joining Chatroom: ');
 } while (!name);
 
 textarea.addEventListener('keyup', (e) => {
